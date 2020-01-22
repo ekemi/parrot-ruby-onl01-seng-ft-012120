@@ -5,3 +5,4 @@ def parrot(name)
   
   return name
 end  
+parrot
