@@ -2,7 +2,6 @@
 # returns the phrase
 def parrot(name ="Squawk!")
   
+  puts name
   return name
 end  
-parrot
-parrot("I am new to Ruby")
