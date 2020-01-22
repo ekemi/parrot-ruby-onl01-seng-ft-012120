@@ -4,4 +4,5 @@ def parrot(name ="Squawk!")
   
   return name
 end  
-parrot
+parrotclear
+parrot("I am new to Ruby")
